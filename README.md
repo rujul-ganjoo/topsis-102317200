@@ -1,4 +1,4 @@
-# Topsis-Tatvam-102303484
+# Topsis-Rujul-102317200
 
 **TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution)** implementation in Python for multi-criteria decision analysis.
 
@@ -11,7 +11,7 @@ TOPSIS is a multi-criteria decision analysis method that ranks alternatives base
 Install the package using pip:
 
 ```bash
-pip install topsis-tatvam-102303088
+pip install topsis-rujul-102317200
 ```
 
 ## Usage
@@ -127,19 +127,21 @@ MIT License - see LICENSE file for details
 
 ## Author
 
-Tatvam Jain
+Rujul Ganjoo
 
 ## Version
 
-1.0.5
+1.0.3
 
 ## Links
 
-- PyPI: [https://pypi.org/project/Topsis-Tatvam-102303484/](https://pypi.org/project/topsis-tatvam-102303484/)
-- GitHub: https://github.com/tatvamjain/topsis-102303484
+- PyPI: [https://pypi.org/project/topsis-rujul-102317200/]([https://pypi.org/project/topsis-tatvam-102303484/](https://pypi.org/project/topsis-rujul-102317200/))
+- GitHub: https://github.com/rujul-ganjoo/topsis-102317200
+
 
 ## Support
 
 For issues and questions, please open an issue on GitHub.
+
 
 
