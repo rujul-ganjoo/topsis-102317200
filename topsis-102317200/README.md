@@ -23,7 +23,7 @@ The TOPSIS project is also deployed as a web application, allowing users to run 
 TOPSIS method directly through a browser interface.
 
 🔗 **Live Website:**  
-https://topsis-six.vercel.app/
+https://topsis-102317200.vercel.app/
 
 ---
 
