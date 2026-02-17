@@ -32,11 +32,11 @@ https://topsis-102317200.vercel.app/
 2. Other dependencies that come installed with this package are :-
     - pandas
     - numpy
-3. Package listed on PyPI:- https://pypi.org/project/Topsis-Nimish-102483077/1.0.2/
+3. Package listed on PyPI:- https://pypi.org/project/topsis-rujul-102317200/
 4. Use the following command to install this package:-
 
     ```bash
-    pip install Topsis-Nimish-102483077
+    pip install topsis-rujul-102317200
     ```
 
 ---
